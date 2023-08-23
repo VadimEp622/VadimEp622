@@ -7,7 +7,7 @@
 
 <h3> 🔭 I’m currently working on : </h3>
 
-- [**Stay Hub**](https://sprint-4-stayhub.onrender.com/) - (Airbnb clone) [React.js/MongoDB]
+- [**Stay Hub**](https://github.com/VadimEp622/proj-stay-hub) - (Airbnb clone) [React.js/MongoDB]
 - [**My Team**](https://vadimep622.github.io/proj-my-team-design-challenge/) - (Pixel-Perfect challenge from Canvas image) [React.js]
 
 

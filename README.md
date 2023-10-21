@@ -8,7 +8,7 @@
 <h3> 🔭 I’m currently working on : </h3>
 
 - [**Stay Hub**](https://github.com/VadimEp622/proj-stay-hub) - (Airbnb clone) [React.js/MongoDB]
-- [**My Team**](https://vadimep622.github.io/proj-my-team-design-challenge/) - (Pixel-Perfect challenge from Canvas image) [React.js]
+- [**My Team**](https://github.com/VadimEp622/proj-my-team-design-challenge) - (Pixel-Perfect challenge from Canvas image) [React.js]
 
 
 <h3 align="left">Connect with me:</h3>

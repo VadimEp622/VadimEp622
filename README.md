@@ -3,7 +3,7 @@
 
 - 🔨  Proficient at building single page application using React.js/Vue.js/Angular
 - 🧙‍♂️  Skilled at creating secure and modulated back-end using Node.js 
-- 🎯  Experienced in making pixel-perfect web pages
+- 🎯  Experienced in making pixel-perfect, responsive, performant high quality UI
 - 💡  Curious at heart and like to explore stuff related to interests
 
 <h3> 🔭 I’m currently working on : </h3>

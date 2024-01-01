@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer from Israel</h3>
 
 - 🔨  Proficient at building single page application using React.js/Vue.js/Angular
+- 🧙‍♂️  Skilled at creating secure and modulated back-end using Node.js 
 - 🎯  Experienced in making pixel-perfect web pages
 - 💡  Curious at heart and like to explore stuff related to interests
 

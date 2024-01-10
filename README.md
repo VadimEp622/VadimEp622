@@ -10,7 +10,7 @@
 
 - [**Stay Hub**](https://github.com/VadimEp622/proj-stay-hub) - (Airbnb clone) [React.js/Node.js/MongoDB]
 - [**My Team**](https://github.com/VadimEp622/proj-my-team-design-challenge) - (Pixel-Perfect challenge from Canvas image) [React.js]
-- [**Mr. Bitcoin (Vue)**](https://github.com/VadimEp622/proj-Vue-mr-bitcoin) - (Demo web application) [Vue.js]
+- [**Mr. Bitcoin (Vue)**](https://github.com/VadimEp622/proj-Vue-mr-bitcoin) - (Bitcoin trade web application) [Vue.js]
 
 
 <h3 align="left">Connect with me:</h3>

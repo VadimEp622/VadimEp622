@@ -14,7 +14,7 @@
 
 <h3>Extra:</h3>
 
-- [**Basic Local Vue.js+PHP integration**](https://github.com/VadimEp622/test-deploy-vue-php)
+- [**Basic Local Vue.js+PHP integration**](https://github.com/VadimEp622/simple-vue-php-integration)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

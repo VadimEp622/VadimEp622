@@ -15,6 +15,7 @@
 <h3>Extra:</h3>
 
 - [**Basic Local Vue.js+PHP integration**](https://github.com/VadimEp622/simple-vue-php-integration)
+- [**Angular SPA Tic-Tac-Toe**](https://github.com/VadimEp622/angular-tic-tac-toe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

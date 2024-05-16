@@ -11,7 +11,7 @@
 - [**Stay Hub**](https://github.com/VadimEp622/proj-stay-hub) - (Airbnb clone) [React.js/Node.js/MongoDB]
 - [**My Team**](https://github.com/VadimEp622/proj-my-team-design-challenge) - (Pixel-Perfect challenge from Canvas image) [React.js]
 - [**Mr. Bitcoin (Vue)**](https://github.com/VadimEp622/proj-Vue-mr-bitcoin) - (Bitcoin trade web application) [Vue.js]
-- [**Ms. Books (Angular)**](https://github.com/VadimEp622/angular-ms-books) - (Demo online book store) [Angular/Node.js/Docker/MySQL] 
+- [**Ms. Books (Angular 17)**](https://github.com/VadimEp622/angular-ms-books) - (Demo online book store) [Angular:17/Node.js/Docker/MySQL] 
 
 <h3>Extra:</h3>
 

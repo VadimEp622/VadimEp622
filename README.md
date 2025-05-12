@@ -15,7 +15,8 @@
 
 <h3>Extra:</h3>
 
-- [**Basic Local Vue.js+PHP integration**](https://github.com/VadimEp622/simple-vue-php-integration)
+- [**Basic Local Vue.js + PHP integration**](https://github.com/VadimEp622/simple-vue-php-integration)
+- [**Basic Local SSR-PHP + jQuery + MySQL**](https://github.com/VadimEp622/php-sql-jquery-ssr-exercise)
 - [**Angular SPA Tic-Tac-Toe**](https://github.com/VadimEp622/angular-tic-tac-toe)
 
 <h3 align="left">Connect with me:</h3>
